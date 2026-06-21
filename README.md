@@ -1,1 +1,2 @@
 
+The zero-shot Groq baseline significantly outperformed the fine-tuned DistilBERT model, achieving 0.929 accuracy compared to 0.679. This suggests that for small datasets with semantically overlapping labels, large language models retain a strong advantage due to broader pretraining. The fine-tuned model struggled particularly with distinguishing opinion_reaction from help_question, indicating that subjective statements and implicit advice-seeking language are difficult to separate with limited training data.
