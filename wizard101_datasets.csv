@@ -183,3 +183,28 @@ text,label,notes
 "pay to win discussions are overblown",opinion_reaction,"meta opinion"
 "old school Wizard101 was peak gaming",opinion_reaction,"nostalgia"
 "game balance is actually pretty fair",opinion_reaction,"counter opinion"
+
+
+"best way to farm gold efficiently in mid game","guide_analysis","farming guide"
+"how to optimize PvP deck for consistent wins","guide_analysis","deck building"
+"gear progression strategy from early to mid game","guide_analysis","gear guide"
+"how blade stacking works in boss fights explained","guide_analysis","combat guide"
+
+"how do I beat Atavus in Novus as a solo player","help_question","boss help"
+"what gear should I use at level 60 for PvE","help_question","gear question"
+"why am I losing to Balaur in fights","help_question","difficulty question"
+"how does critical rating actually work in combat","help_question","mechanics question"
+
+"gear crafting feels way too grindy now","opinion_reaction","frustration"
+"ice wizards feel weak because they lack good AoE damage","opinion_reaction","balance opinion"
+"the summer 2026 update made the game worse overall","opinion_reaction","update opinion"
+"pets are way too RNG dependent and unfair","opinion_reaction","system complaint"
+
+"best farming seed route for Beastmoon gear efficiently","guide_analysis","farming guide"
+"how to build a balanced deckathalon deck for each floor","guide_analysis","deck guide"
+
+"what is the best way to solo challenge mode dungeons","help_question","solo question"
+"how do I improve my pet stats quickly","help_question","pet question"
+
+"PvP combat feels very gatekept by gear","opinion_reaction","game design opinion"
+"getting into raids is impossible to get into","opinion_reaction","balance opinion"
