@@ -147,6 +147,15 @@ Text: “boss cheats are unfair design”
 Why it failed:
 The statement sounds descriptive and system-focused, causing confusion with informational guide-style text.
 
+Mistake 3
+
+Text: “how does critical rating work exactly”
+- True: help_question
+- Predicted: guide_analysis
+
+Why it failed:
+Model misinterpreted question format as a mechanics explanation request.
+
 Key Failure Pattern
 
 The model struggles with:
