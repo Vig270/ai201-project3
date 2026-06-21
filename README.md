@@ -188,11 +188,11 @@ What it missed:
 - Ambiguous posts without explicit question markers
 
 
+
+
 Spec Reflection
 How the spec helped:
-
 The structured pipeline (baseline → fine-tune → evaluate) ensured:
-
 - consistent evaluation on identical test sets
 - fair comparison between models
 - clear separation of training vs evaluation logic
@@ -202,3 +202,42 @@ I initially underestimated dataset size requirements and had to:
 - adjust dataset to reach 200 examples
 - refine label definitions for consistency
 This improved model stability and reduced ambiguity.
+
+AI Usage Disclosure
+
+AI tools were used in the following ways:
+
+- Prompt Engineering (Groq baseline)
+- Helped refine classification prompt structure
+- Improved strict label output formatting
+- Error Analysis Assistance
+- Used AI to identify patterns in misclassified examples
+- Helped detect confusion between opinion vs guide language
+- Debugging Training Pipeline
+- Assisted in resolving dataset split and label mapping issues
+
+
+
+Files Included
+evaluation_results.json → metrics summary
+confusion_matrix.png → visual evaluation
+wizard101_datasets.csv → labeled dataset
+ai201_project3_takemeter_starter_clean.ipynb → full pipeline
+
+
+
+
+
+
+Final Summary
+
+This project demonstrates:
+
+successful fine-tuning of a transformer model
+comparison against a strong zero-shot LLM baseline
+structured evaluation using classification metrics
+analysis of model failure modes
+
+Final result:
+
+Both baseline and fine-tuned model achieved 0.933 accuracy, showing that the task is highly structured and already well-handled by strong zero-shot models.
