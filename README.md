@@ -222,7 +222,7 @@ Files Included
 evaluation_results.json → metrics summary
 confusion_matrix.png → visual evaluation
 wizard101_datasets.csv → labeled dataset
-ai201_project3_takemeter_starter_clean.ipynb → full pipeline
+Copy_of_ai201_project3_takemeter_starter_clean.ipynb → full pipeline
 
 
 
